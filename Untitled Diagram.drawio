@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T12:17:22.742Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="pGcVWc644iJQipHz8fRP" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-31T12:19:07.768Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="KfyjopGqhXTMQXbVWi49" version="21.3.6" type="github">
   <diagram name="Page-1" id="_kbAUamdsEitSHpLiYVL">
     <mxGraphModel dx="1468" dy="1262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="F-h7AW0LBQ3TBnKWL7sb-7" value="AGW" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F-h7AW0LBQ3TBnKWL7sb-7" value="(AGW)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="43.5" y="380" width="620" height="100" as="geometry" />
         </mxCell>
         <mxCell id="F-h7AW0LBQ3TBnKWL7sb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.313;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eteMdfNSblOHJH8BzZDT-1" target="eteMdfNSblOHJH8BzZDT-5">
@@ -37,14 +37,17 @@
         <mxCell id="eteMdfNSblOHJH8BzZDT-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" parent="1" vertex="1">
           <mxGeometry x="590" y="630" width="68" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F-h7AW0LBQ3TBnKWL7sb-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="610" width="120" height="60" as="geometry" />
+        <mxCell id="F-h7AW0LBQ3TBnKWL7sb-8" value="datadrop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="330" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F-h7AW0LBQ3TBnKWL7sb-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="610" width="120" height="60" as="geometry" />
+        <mxCell id="F-h7AW0LBQ3TBnKWL7sb-9" value="ingest" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F-h7AW0LBQ3TBnKWL7sb-8" value="filedrop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="330" width="60" height="30" as="geometry" />
+        <mxCell id="F-h7AW0LBQ3TBnKWL7sb-10" value="dip-ingest" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="300" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F-h7AW0LBQ3TBnKWL7sb-11" value="ISD-datastore" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="308" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
